@@ -5,7 +5,6 @@ class  IntegerI{
 	 System.out.println(i);
  }
 }
-
 class subClassJ extends IntegerI{
 	int j;
 	void printNum(){

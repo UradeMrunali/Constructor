@@ -11,7 +11,7 @@ class subClassJ extends IntegerI{
 		
 	super.printNum();
 		System.out.println(j);
-	}
+}
 }
 public class Assign12 {
 	

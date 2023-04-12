@@ -10,12 +10,11 @@ class subClassJ extends IntegerI{
 	void printNum(){
 		
 	super.printNum();
-		System.out.println(j);
+	System.out.println(j);
 }
 }
 public class Assign12 {
-	
-		public static void main(String[] args) {	
+  public static void main(String[] args) {	
 	 subClassJ s=new subClassJ();
 	  s.i=4;
 	  s.j=1;

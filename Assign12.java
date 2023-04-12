@@ -15,9 +15,7 @@ class subClassJ extends IntegerI{
 }
 public class Assign12 {
 	
-		public static void main(String[] args) {
-			
-			
+		public static void main(String[] args) {	
 	 subClassJ s=new subClassJ();
 	  s.i=4;
 	  s.j=1;
